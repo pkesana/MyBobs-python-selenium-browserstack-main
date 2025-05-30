@@ -1,2 +1,4 @@
 /local.log
 env
+tests/local-test.py
+tests/test.py
